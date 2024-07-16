@@ -1,3 +1,3 @@
 # PersonalProject
 
-## This Project is about... something TBD
+This Project is about... something TBD
